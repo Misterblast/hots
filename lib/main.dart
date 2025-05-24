@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
-import 'package:unesa_hots/home_screen.dart';
-import 'package:unesa_hots/splash.dart';
+import 'package:hots/home_screen.dart';
+import 'package:hots/splash.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -41,25 +41,19 @@ class _MainPageState extends State<MainPage> {
     HomeScreen(),
     InAppWebView(
       initialUrlRequest: URLRequest(
-        url: WebUri(
-          "https://hotlinks-learn.blogspot.com/2020/02/info.html?m=1",
-        ),
+        url: WebUri("https://hl.go-assessment.link/info"),
       ),
       onWebViewCreated: (controller) {},
     ),
     InAppWebView(
       initialUrlRequest: URLRequest(
-        url: WebUri(
-          "https://hotlinks-learn.blogspot.com/2020/02/tutorial.html?m=1",
-        ),
+        url: WebUri("https://hl.go-assessment.link/tutorial"),
       ),
       onWebViewCreated: (controller) {},
     ),
     InAppWebView(
       initialUrlRequest: URLRequest(
-        url: WebUri(
-          "https://hotlinks-learn.blogspot.com/2020/02/profil-penulis_16.html?m=1",
-        ),
+        url: WebUri("https://hl.go-assessment.link/penyusun"),
       ),
       onWebViewCreated: (controller) {},
     ),

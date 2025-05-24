@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unesa_hots/webview_screen.dart';
+import 'package:hots/webview_screen.dart';
 
 class HotsLearningPage extends StatelessWidget {
   const HotsLearningPage({super.key});

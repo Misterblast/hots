@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:unesa_hots/about_hots.dart';
-import 'package:unesa_hots/four_c_screen.dart';
+import 'package:hots/about_hots.dart';
+import 'package:hots/four_c_screen.dart';
 
 class HotsScreen extends StatelessWidget {
   const HotsScreen({super.key});

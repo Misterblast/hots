@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unesa_hots/webview_screen.dart';
+import 'package:hots/webview_screen.dart';
 
 class FourCScreen extends StatelessWidget {
   FourCScreen({super.key});
@@ -7,32 +7,27 @@ class FourCScreen extends StatelessWidget {
     {
       "asset": "assets/images/bab_satu.png",
       "title": "Pengertian",
-      "webview":
-          "https://hotlinks-learn.blogspot.com/2020/02/pengertian-4c.html?m=1",
+      "webview": "https://hl.go-assessment.link/menu/pengertian-4c",
     },
     {
       "asset": "assets/images/bab_dua.png",
       "title": "Critical Thinking Skills",
-      "webview":
-          "https://hotlinks-learn.blogspot.com/2020/02/critical-thinking-skill-1.html?m=1",
+      "webview": "https://hl.go-assessment.link/menu/critical-thinking",
     },
     {
       "asset": "assets/images/bab_tiga.png",
       "title": "Creative Thinking Skills",
-      "webview":
-          "https://hotlinks-learn.blogspot.com/2020/02/critical-thinking-skill-2.html?m=1",
+      "webview": "https://hl.go-assessment.link/menu/creative-thinking",
     },
     {
       "asset": "assets/images/collab.png",
       "title": "Communication Skills",
-      "webview":
-          "https://hotlinks-learn.blogspot.com/2020/02/communication-skill.html?m=1",
+      "webview": "https://hl.go-assessment.link/menu/communication-skill",
     },
     {
       "asset": "assets/images/bab_lima.png",
       "title": "Collaboration Skills",
-      "webview":
-          "https://hotlinks-learn.blogspot.com/2020/02/collaboration-skill.html?m=1",
+      "webview": "https://hl.go-assessment.link/menu/collaboration-skill",
     },
   ];
 

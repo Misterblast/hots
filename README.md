@@ -1,4 +1,4 @@
-# unesa_hots
+# hots
 
 A new Flutter project.
 

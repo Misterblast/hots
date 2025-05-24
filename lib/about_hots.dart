@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unesa_hots/webview_screen.dart';
+import 'package:hots/webview_screen.dart';
 
 class AboutHotsScreen extends StatelessWidget {
   AboutHotsScreen({super.key});
@@ -8,30 +8,27 @@ class AboutHotsScreen extends StatelessWidget {
     {
       "asset": "assets/images/bab_satu.png",
       "title": "Pengertian HOTS",
-      "webview": "https://hotlinks-learn.blogspot.com/2019/12/hots.html?m=1",
+      "webview": "https://hl.go-assessment.link/menu/pengertian-hots",
     },
     {
       "asset": "assets/images/bab_dua.png",
       "title": "Teori HOTS",
-      "webview": "https://hotlinks-learn.blogspot.com/2020/03/teori-hots.html",
+      "webview": "https://hl.go-assessment.link/menu/teori-hots",
     },
     {
       "asset": "assets/images/taksonomibloom.png",
       "title": "Taksonomi Bloom",
-      "webview":
-          "https://hotlinks-learn.blogspot.com/2020/03/taksonomi-bloom.html?m=1",
+      "webview": "https://hl.go-assessment.link/menu/taksonomi-bloom",
     },
     {
       "asset": "assets/images/bab_empat.png",
       "title": "Penilaian KBTT",
-      "webview":
-          "https://hotlinks-learn.blogspot.com/2020/03/penilaian-kemampuan-berpikir-tingkat.html?m=1",
+      "webview": "https://hl.go-assessment.link/menu/penilaian-kbt",
     },
     {
       "asset": "assets/images/bab_lima.png",
       "title": "Bagaimana Melatih HOTS",
-      "webview":
-          "https://hotlinks-learn.blogspot.com/2020/03/bagaimana-melatihkan-hots.html?m=1",
+      "webview": "https://hl.go-assessment.link/menu/melatih-hots",
     },
   ];
 

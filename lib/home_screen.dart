@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:unesa_hots/hots_learning_page.dart';
-import 'package:unesa_hots/hots_screen.dart';
-import 'package:unesa_hots/webview_screen.dart';
+import 'package:hots/hots_learning_page.dart';
+import 'package:hots/hots_screen.dart';
+import 'package:hots/webview_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
