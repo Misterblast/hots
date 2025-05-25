@@ -10,50 +10,42 @@ class HotsLearningPage extends StatelessWidget {
       {
         "asset": "assets/images/bab_satu.png",
         "title": "Bab 1 : PBM",
-        "webview":
-            "https://hotlinks-learn.blogspot.com/2019/12/pembelajaran-berbasis-masalah.html?m=1",
+        "webview": "https://hl.go-assessment.link/bab/pbm",
       },
       {
         "asset": "assets/images/bab_dua.png",
         "title": "Bab 2 : Inkuiri",
-        "webview":
-            "https://hotlinks-learn.blogspot.com/2019/12/pembelajaran-inkuiri.html?m=1",
+        "webview": "https://hl.go-assessment.link/bab/inkuiri",
       },
       {
         "asset": "assets/images/bab_tiga.png",
         "title": "Bab 3 : CAM",
-        "webview":
-            "https://hotlinks-learn.blogspot.com/2019/12/concept-attainment-model.html?m=1",
+        "webview": "https://hl.go-assessment.link/bab/cam",
       },
       {
         "asset": "assets/images/bab_empat.png",
         "title": "Bab 4 : PJBL",
-        "webview":
-            "https://hotlinks-learn.blogspot.com/2019/12/project-based-learning.html?m=1",
+        "webview": "https://hl.go-assessment.link/bab/pjbl",
       },
       {
         "asset": "assets/images/bab_lima.png",
         "title": "Bab 5 : Jigsaw",
-        "webview":
-            "https://hotlinks-learn.blogspot.com/2019/12/pembelajaran-kooperatif.html?m=1",
+        "webview": "https://hl.go-assessment.link/bab/jigsaw",
       },
       {
         "asset": "assets/images/bab_enam.png",
         "title": "Bab 6 : Kooperatif (TNHT)",
-        "webview":
-            "https://hotlinks-learn.blogspot.com/2021/03/pembelajaran-kooperatif-tipe-group.html?m=1",
+        "webview": "https://hl.go-assessment.link/bab/tnht",
       },
       {
         "asset": "assets/images/gi_button.png",
         "title": "Bab 7 : Kooperatif (GI)",
-        "webview":
-            "https://hotlinks-learn.blogspot.com/2021/03/pembelajaran-kooperatif-tipe-group.html?m=1",
+        "webview": "https://hl.go-assessment.link/bab/gi",
       },
       {
         "asset": "assets/images/bab_delapan.png",
         "title": "Bab 8 : Kooperatif (TPS)",
-        "webview":
-            "https://hotlinks-learn.blogspot.com/2019/12/pembelajaran-kooperatif-tipe-tps.html?m=1",
+        "webview": "https://hl.go-assessment.link/bab/tps",
       },
     ];
     return Scaffold(
