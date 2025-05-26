@@ -53,7 +53,7 @@ class HomeScreen extends StatelessWidget {
                 builder:
                     (context) => const WebviewScreen(
                       url:
-                          "https://docs.google.com/forms/d/e/1FAIpQLSdxm6zUHy5RayFUYb1GWxLm03GE62H5o-19aLIVCDQSNZGiZw/viewform",
+                          "https://docs.google.com/forms/d/e/1FAIpQLSce9rJ0HDgMmqvV9Z0byRZBxc6FmqV6pRAZQQGUsuGTRX7QLA/viewform?usp=dialog",
                     ),
               ),
             ),

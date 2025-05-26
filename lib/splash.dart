@@ -31,8 +31,8 @@ class _SplashScreenState extends State<SplashScreen> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Row(),
-          Image.asset("assets/images/unesa_logo.png", scale: 1.25),
-          Image.asset("assets/images/edustem.jpg", scale: 1.5),
+          Image.asset("assets/images/unesa_logo.png", width: 300, height: 300),
+          Image.asset("assets/images/edustem.jpg", width: 300, height: 300),
         ],
       ),
     );
