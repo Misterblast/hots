@@ -76,7 +76,7 @@ class _MainPageState extends State<MainPage> {
             label: 'Informasi',
           ),
           BottomNavigationBarItem(icon: Icon(Icons.list), label: 'Tutorial'),
-          BottomNavigationBarItem(icon: Icon(Icons.edit), label: 'Penulis'),
+          BottomNavigationBarItem(icon: Icon(Icons.edit), label: 'Penyusun'),
         ],
         currentIndex: _currentPage,
         onTap: _onPageChanged,
